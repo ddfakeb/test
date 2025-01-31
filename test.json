@@ -1,0 +1,5 @@
+{
+  "countries": ["BR", "CA", "US", "DE"],
+  "operatingSystems": ["iPhone", "iPad", "Android"],
+  "redirectUrl": "https://www.google.com"
+}
