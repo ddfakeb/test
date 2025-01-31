@@ -2,7 +2,7 @@
   "countries": ["BR", "CA", "US", "DE"],
   "operatingSystems": {
     "iPhone": "https://www.google.com",
-    "iPad": "https://www.google.com"
+    "iPad": "https://www.x.com"
    
   }
 }
