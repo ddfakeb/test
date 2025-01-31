@@ -1,5 +1,9 @@
 {
   "countries": ["BR", "CA", "US", "DE"],
-  "operatingSystems": ["iPhone", "iPad", "Android"],
-  "redirectUrl": "https://youtube.com"
+  "operatingSystems": {
+    "iPhone": "https://www.google.com",
+    "iPad": "https://www.google.com",
+    "Windows": "https://www.bing.com",
+    "Mac": "https://www.bing.com"
+  }
 }
