@@ -2,8 +2,7 @@
   "countries": ["BR", "CA", "US", "DE"],
   "operatingSystems": {
     "iPhone": "https://www.google.com",
-    "iPad": "https://www.google.com",
-    "Windows": "https://www.bing.com",
-    "Mac": "https://www.bing.com"
+    "iPad": "https://www.google.com"
+   
   }
 }
