@@ -1,8 +1,23 @@
 {
-  "countries": ["BR", "CA", "US", "DE"],
-  "operatingSystems": {
-    "iPhone": "https://www.google.com",
-    "iPad": "https://www.x.com"
-   
+    "conditions": [
+      {
+        "countries": ["BR", "CA"],
+        "operatingSystems": {
+          "iPhone": "https://www.google.com",
+          "iPad": "https://www.google.com",
+          "Windows": "https://www.bing.com",
+          "Mac": "https://www.bing.com"
+        }
+      },
+      {
+        "countries": ["US", "DE"],
+        "operatingSystems": {
+          "iPhone": "https://www.yahoo.com",
+          "iPad": "https://www.yahoo.com",
+          "Windows": "https://www.duckduckgo.com",
+          "Mac": "https://www.duckduckgo.com"
+        }
+      }
+    ]
   }
-}
+  
